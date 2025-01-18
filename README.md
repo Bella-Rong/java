@@ -1,2 +1,2 @@
 # java
-java+AI智能辅助编程练习
+java编程练习
